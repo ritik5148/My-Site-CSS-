@@ -1,0 +1,166 @@
+.top-container{
+    background-color: #EAFDFC;
+    position: relative;
+    padding-top: 200px;
+    
+}
+
+h1{
+    line-height: 1.5;
+    margin: 0px auto 0 auto;
+    color: #0A2647;
+    font-family: 'Explora', cursive;
+    font-size: 5.62rem;
+}
+
+h2{
+    color: #144272;
+    font-weight: normal;
+    font-size: 3rem;
+    font-family: 'Shadows Into Light', cursive;
+    padding-top: 20px;
+}
+
+h3{
+    font-weight: normal;
+    font-size: 2rem;
+    color: #144272;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+p{
+    color: #0A2647;
+    font-size: 20px;
+    line-height: 2;
+}
+
+.pro{
+    font-family: 'Nothing You Could Do', cursive;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.flake{
+    height: 200px;
+    position: absolute;
+    top: 10px;
+    left: 43%;
+}
+
+.top-cloud{
+    height: 70px;
+    width: 150px;
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud{
+    height: 70px;
+    width: 150px;
+    position: absolute;
+    left: 250px;
+    margin-bottom: 300px;
+}
+ 
+.mountain{
+    height: 400px;
+    width: 800px;
+}
+
+.middle-container{
+    margin: 100px auto;
+}
+
+.bottom-container{
+    background-color: #EAFDFC;
+    padding: 50px 0px 20px;
+}
+
+a{
+    color: #144272;
+    font-family: 'Shadows Into Light', cursive;
+    margin: 10px 20px;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+a:hover{
+    color: #2C74B3;
+}
+
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.monitor{
+    width: 25%;
+    float: left;
+    margin-right: 40px;
+}
+
+.dance{
+    width: 25%;
+    float: right;
+    margin-left: 40px;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #0A2647;
+    border-width: 5px;
+    width: 3%;
+    margin: 100px auto;
+    
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.copyright{
+    color: #2C74B3;
+    font-size: 1rem;
+    padding: 20px 0px;
+}
+
+.btn {
+    background: #CFF5E7;
+    background-image: -webkit-linear-gradient(top, #CFF5E7, #A0E4CB);
+    background-image: -moz-linear-gradient(top, #CFF5E7, #A0E4CB);
+    background-image: -ms-linear-gradient(top, #CFF5E7, #A0E4CB);
+    background-image: -o-linear-gradient(top, #CFF5E7, #A0E4CB);
+    background-image: linear-gradient(to bottom, #CFF5E7, #A0E4CB);
+    -webkit-border-radius: 30;
+    -moz-border-radius: 30;
+    border-radius: 30px;
+    font-family: 'Shadows Into Light', cursive;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #EFF5F5;
+    background-image: -webkit-linear-gradient(top, #EFF5F5, #D6E4E5);
+    background-image: -moz-linear-gradient(top, #EFF5F5, #D6E4E5);
+    background-image: -ms-linear-gradient(top, #EFF5F5, #D6E4E5);
+    background-image: -o-linear-gradient(top, #EFF5F5, #D6E4E5);
+    background-image: linear-gradient(to bottom, #EFF5F5, #D6E4E5);
+    text-decoration: none;
+  }
